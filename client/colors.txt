@@ -1,0 +1,8 @@
+    // primary     : Mostly Blue
+    // secondary   : Grey
+    // success     : Green
+    // danger      : Red
+    // warning     : yellow
+    // info        : Ocean Blue
+    // light       : white
+    // dark        : Black
